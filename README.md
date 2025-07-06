@@ -15,7 +15,7 @@ This is the **React frontend** for the Expense Tracker application. It allows us
 -  Delete transactions
 -  Bootstrap 5 styled UI
 -  Axios API calls to Spring Boot backend
-- ⚛ Functional components and hooks (`useState`, `useEffect`)
+-  Functional components and hooks (`useState`, `useEffect`)
 
 ---
 
