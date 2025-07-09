@@ -2,7 +2,7 @@
 
 This is the **React frontend** for the Expense Tracker application. It allows users to add, view, and delete income or expense transactions with a clean, responsive UI. It connects to a Spring Boot backend via REST API.
 
---------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 ##  Features
 
@@ -13,7 +13,7 @@ This is the **React frontend** for the Expense Tracker application. It allows us
 -  Axios API calls to Spring Boot backend
 -  Functional components and hooks (`useState`, `useEffect`)
 
------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 ##  Getting Started
 
