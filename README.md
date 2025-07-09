@@ -13,7 +13,7 @@ This is the **React frontend** for the Expense Tracker application. It allows us
 -  Axios API calls to Spring Boot backend
 -  Functional components and hooks (`useState`, `useEffect`)
 
----
+-----------------------------------------------------------------------------------------------------
 
 ##  Getting Started
 
